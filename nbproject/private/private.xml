@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/abstractfactory/factories/DaoFactory.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/abstractfactory/factories/ControllerFactory.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/abstractfactory/factories/ViewFactory.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/mvc/controller/servicocontroller/FilmeController.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/main/Principal.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/abstractfactory/producer/FactoryProducer.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/abstractfactory/factories/ModelFactory.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/mvc/view/ClienteView/ClienteView.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/mvc/view/ServicoView/ServicoView.java</file>
+            <file>file:/C:/Users/Jardel%20Carvalho/Documents/NetBeansProjects/TP2ProgOO-NovaImplementacao/src/mvc/controller/servicocontroller/SerieController.java</file>
+        </group>
+    </open-files>
+</project-private>
